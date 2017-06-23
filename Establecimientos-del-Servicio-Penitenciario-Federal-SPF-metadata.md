@@ -1,7 +1,7 @@
 Establecimientos del Servicio Penitenciario Federal - SPF
 =========================================================
 
-Este conjunto de datos contiene datos de los Establecimientos del Servicio Penitenciario Federal – SPF – de todo el país.
+Este conjunto de datos contiene información histórica de los Establecimientos del Servicio Penitenciario Federal – SPF – de todo el país. Reflejando la capacidad de alojamiento e información geográfica.
 
 Características
 ---------------
@@ -39,11 +39,11 @@ Recursos disponibles
 
 -   **unidad (string):** Código de Unidad del establecimiento
 
--   **nombre_establecimiento (string):** Nombre del establecimiento
+-   **nombre\_establecimiento (string):** Nombre del establecimiento
 
--   **capacidad_general (int):** Capacidad de alojamiento
+-   **capacidad\_general (int):** Capacidad de alojamiento
 
--   **capacidad_operativa_utilizable (int):** Capacidad de alojamiento ….
+-   **capacidad\_operativa\_utilizable (int):** Capacidad de alojamiento ….
 
 -   **domicilio (string):** Domicilio del establecimiento
 
