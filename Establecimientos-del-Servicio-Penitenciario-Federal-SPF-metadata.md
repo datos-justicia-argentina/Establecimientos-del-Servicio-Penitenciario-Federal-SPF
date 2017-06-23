@@ -27,7 +27,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** capacidad-establecimientos-spf.csv
 
--   **Descripción del contenido:** Nómina de establecimientos pertenecientes al Servicio Penitenciario Federal
+-   **Descripción del contenido:** Nómina de establecimientos pertenecientes al Servicio Penitenciario Federal con capacidad de alojamiento e información geográfica
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
