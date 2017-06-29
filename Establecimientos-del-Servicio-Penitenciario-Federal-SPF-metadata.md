@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **unidad (string):** código de Unidad del establecimiento
 
--   **nombre_establecimiento (string):** Nombre del establecimiento
+-   **nombre_establecimiento (string):** nombre del establecimiento
 
 -   **capacidad_general (int):** capacidad de alojamiento
 
