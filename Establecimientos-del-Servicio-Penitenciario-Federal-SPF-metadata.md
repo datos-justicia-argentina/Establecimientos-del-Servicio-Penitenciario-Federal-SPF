@@ -6,7 +6,7 @@ Este conjunto de datos contiene información histórica de los Establecimientos 
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 31/05/2017
+-   **Fecha de Primera Publicación:** 
 
 -   **Tags o Etiquetas:** penitenciario, federal, prisión, SPF, alojamiento, capacidad, establecimientos, unidades
 
@@ -27,34 +27,34 @@ Recursos disponibles
 
 -   **Nombre del archivo:** capacidad-establecimientos-spf.csv
 
--   **Descripción del contenido:** Nómina de establecimientos pertenecientes al Servicio Penitenciario Federal con capacidad de alojamiento e información geográfica
+-   **Descripción del contenido:** nómina de establecimientos pertenecientes al Servicio Penitenciario Federal con capacidad de alojamiento e información geográfica
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 ### Campos del recurso
 
--   **anio (int):** Año informado
+-   **anio (int):** año informado
 
--   **mes (int):** Mes informado
+-   **mes (int):** mes informado
 
--   **unidad (string):** Código de Unidad del establecimiento
+-   **unidad (string):** código de Unidad del establecimiento
 
--   **nombre\_establecimiento (string):** Nombre del establecimiento
+-   **nombre_establecimiento (string):** Nombre del establecimiento
 
--   **capacidad\_general (int):** Capacidad de alojamiento
+-   **capacidad_general (int):** capacidad de alojamiento
 
--   **capacidad\_operativa\_utilizable (int):** Capacidad de alojamiento ….
+-   **capacidad_operativa_utilizable (int):** capacidad de alojamiento ….
 
--   **domicilio (string):** Domicilio del establecimiento
+-   **domicilio (string):** domicilio del establecimiento
 
--   **localidad (string):** Localidad del establecimiento
+-   **localidad (string):** localidad del establecimiento
 
--   **provincia (string):** Provincia del establecimiento
+-   **provincia (string):** provincia del establecimiento
 
--   **region (string):** Región del establecimiento
+-   **region (string):** región del establecimiento
 
--   **telefono (string):** Teléfono del establecimiento
+-   **telefono (string):** teléfono del establecimiento
 
--   **latitud (date):** Latitud del establecimiento
+-   **latitud (date):** latitud del establecimiento
 
--   **longitud (date):** Longitud del establecimiento
+-   **longitud (date):** longitud del establecimiento
