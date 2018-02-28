@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 
 
--   **Tags o Etiquetas:** penitenciario, federales, prisiones, SPF, alojamiento, capacidades, establecimientos, unidades
+-   **Tags o Etiquetas:** penitenciario, federales, prisiones, SPF, alojamiento, capacidad, establecimientos, unidades
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
