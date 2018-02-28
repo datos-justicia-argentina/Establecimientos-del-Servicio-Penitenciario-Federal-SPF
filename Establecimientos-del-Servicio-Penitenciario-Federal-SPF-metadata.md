@@ -3,12 +3,14 @@ Establecimientos del Servicio Penitenciario Federal - SPF
 
 Este conjunto de datos contiene información histórica de los Establecimientos del Servicio Penitenciario Federal – SPF – de todo el país. Reflejando la capacidad de alojamiento e información geográfica.
 
+http://datos.jus.gob.ar/dataset/establecimientos-del-servicio-penitenciario-federal-spf
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 
 
--   **Tags o Etiquetas:** penitenciario, federal, prisión, SPF, alojamiento, capacidad, establecimientos, unidades
+-   **Tags o Etiquetas:** penitenciario, federales, prisiones, SPF, alojamiento, capacidades, establecimientos, unidades
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** capacidad-establecimientos-spf.csv
 
--   **Descripción del contenido:** nómina de establecimientos pertenecientes al Servicio Penitenciario Federal con capacidad de alojamiento e información geográfica
+-   **Descripción del contenido:** se detalla la nómina de establecimientos pertenecientes al Servicio Penitenciario Federal con capacidad de alojamiento e información geográfica
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
