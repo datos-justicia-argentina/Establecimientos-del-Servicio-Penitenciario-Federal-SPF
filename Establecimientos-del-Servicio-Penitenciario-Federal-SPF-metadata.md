@@ -60,3 +60,8 @@ Recursos disponibles
 -   **latitud (date):** latitud del establecimiento
 
 -   **longitud (date):** longitud del establecimiento
+
+Notas
+------
+
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
